@@ -1,5 +1,4 @@
-# Kaggle Blog
-### Contest・Blog
+### Kaggle Blog
 
 <div>
   <a href="https://www.kaggle.com/gentlezdh">
